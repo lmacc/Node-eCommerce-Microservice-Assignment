@@ -1,2 +1,2 @@
-# Node-eCommerce-Microservice-Assignment
-Microservice assignment. Nodejs
+# Node eCommerce Microservice Assignment
+Microservice assignment. Node js
